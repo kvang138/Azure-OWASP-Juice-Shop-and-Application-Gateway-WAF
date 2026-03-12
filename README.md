@@ -33,7 +33,7 @@ Before implementing the WAF.
 After implementing the WAF.
 ![Before implementing the WAF.](https://github.com/kvang138/Azure-OWASP-Juice-Shop-and-Application-Gateway-WAF/blob/main/Screenshots/Azure-OWASP-Juice-Shop-and-Application-Gateway-WAF%203.png)
 
-The Application Gateway Firewall log showing the attack getting blocked.
+The Application Gateway Firewall log showing the attacks getting blocked.
 ![The Application Gateway Firewall log showing the attack getting blocked.](https://github.com/kvang138/Azure-OWASP-Juice-Shop-and-Application-Gateway-WAF/blob/main/Screenshots/Azure-OWASP-Juice-Shop-and-Application-Gateway-WAF%204.png)
 
 ## Conclusion
